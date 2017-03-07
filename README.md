@@ -1,4 +1,5 @@
-#DLSDK_API function calls
+#MLAB - DLSDK_API function calls
+>MLAB(Machine Learning Application Builder) provides high level abstract API's for Users/Data Scientist to build ML topologies using Intel's DLSDK with ease.
 
 ##General Utilities:
 ```
